@@ -1,0 +1,28 @@
+{
+  "name": "kumospace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "kumospace": "file:",
+    "Kumospace": "file:",
+    "Kumospace_Clone": "file:",
+    "peerjs": "^1.5.4",
+    "socket.io": "^4.7.2",
+    "uuid": "^10.0.0",
+    "Zoom": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
